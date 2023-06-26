@@ -1,0 +1,4 @@
+> Made a new branch
+> Created a new file in this new branch titled as 'new-branch'
+> To check where the new file will be added, in the 'main' branch or the 'new-branch' 
+
